@@ -1,0 +1,25 @@
+{
+  "name": "politica-de-privacidad.io",
+  "version": "1.0.0",
+  "description": "Esta plantilla te permite crear fácilmente una página de política de privacidad para tus aplicaciones de Facebook usando GitHub Pages.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --open=./index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaotzin37/politica-de-privacidad.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yaotzin37/politica-de-privacidad.io/issues"
+  },
+  "homepage": "https://github.com/yaotzin37/politica-de-privacidad.io#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
